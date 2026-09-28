@@ -1,168 +1,75 @@
-📊 Vrinda Store Annual Report 2022
+Vrinda Store Annual Report (2022) - Excel Data Analysis & Dashboard
+
+A comprehensive data analysis and interactive Excel dashboard created to analyze the annual sales performance of Vrinda Store for the year 2022. This project visualizes sales trends, customer demographics, channel contributions, and geographic distribution to assist in business decision-making.
 
 📌 Project Overview
 
-This project is an interactive Excel dashboard created to analyze the annual sales and order performance of Vrinda Store for the year 2022.
+The objective of this project is to clean, analyze, and visualize retail sales data to understand customer purchasing behavior and channel effectiveness.
 
-The dashboard converts raw sales data into useful business insights using Pivot Tables, Pivot Charts, and interactive slicers.
+Key Questions Answered:
 
-🛠️ Tools Used
+Which months generated the highest and lowest sales and orders?
 
-Microsoft Excel
+Who purchases more: Men or Women?
 
-Pivot Tables
+Which sales channels (Amazon, Flipkart, Myntra, etc.) bring the highest revenue?
 
-Pivot Charts
+What are the top 5 states contributing to overall revenue?
 
-Slicers
+How does age group and gender relate to order volume?
 
-Data Cleaning
+What is the status of orders (delivered, returned, cancelled, etc.)?
 
-Data Analysis
+📊 Dashboard Highlights & Key Insights
 
-Data Visualization
+Monthly Sales & Order Trend (Orders vs Sales):
 
-📊 Dashboard Preview
+Sales peaked in March (~2.0M INR with ~2,800 orders).
 
+A gradual dip is observed toward the end of the year (September to December).
 
+Gender-wise Sales Contribution (Sales : Men Vs Women):
 
-📈 Dashboard Analysis
+Women represent 64% of the total sales.
 
-The dashboard provides analysis of:
+Men account for 36% of the total sales.
 
-Monthly Orders vs Sales
+Target audience is predominantly female shoppers.
 
-Sales comparison between Men and Women
+Channel Performance (Orders : Channels):
 
-Orders by Sales Channel
+Top channels: Amazon, Flipkart, and Myntra drive the largest share of orders.
 
-Order Status
+Geographic Distribution (Sales : Top 5 States):
 
-Top 5 States by Sales
+Top state: Maharashtra leading the sales.
 
-Orders by Age Group and Gender
+Other top contributors: Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu.
 
-Product Category
+Customer Demographics (Orders: Age Vs Gender):
 
-Monthly Sales Performance
+Adults and Seniors/Teenagers compared across genders.
 
-Channel-wise Performance
+Women across adult and senior categories generate the highest percentage of orders.
 
-🔎 Interactive Filters
+🛠️ Tools & Techniques Used
 
-The dashboard contains interactive slicers for:
+Microsoft Excel:
 
-Months
+Data Cleaning & Preprocessing: Handling missing values, standardizing categories, and date formatting.
 
-Sales Channel
+Pivot Tables: Aggregating data across channels, states, dates, and demographics.
 
-Product Category
+Interactive Slicers: Dynamic filtering by Month, Channel, and Category (Kurta, Saree, Western Dress, etc.).
 
-These filters allow users to explore the dashboard according to different business dimensions.
+Data Visualization: Combo Charts, Pie Charts, Column Charts, and Bar Graphs.
 
-📌 Key Dashboard Sections
+💡 Business Recommendations
 
-1. Orders vs Sales
+Targeted Marketing: Focus promotional campaigns and seasonal discounts on women's wear, as female customers drive nearly two-thirds of the revenue.
 
-Compares the number of orders and total sales amount across different months of 2022.
+Geographical Focus: Invest in targeted regional ads and faster logistics in top states like Maharashtra and Karnataka.
 
-2. Sales: Men vs Women
+Channel Optimization: Continue prioritizing inventory and advertising spend on high-converting marketplaces like Amazon and Flipkart.
 
-Shows the contribution of male and female customers to total sales.
-
-3. Orders by Channel
-
-Analyzes order distribution across different sales channels such as Amazon, Flipkart, Myntra, Meesho and other channels.
-
-4. Order Status
-
-Provides a state-wise view of sales/order status.
-
-5. Top 5 States by Sales
-
-Highlights the five states with the highest sales performance.
-
-6. Age Group vs Gender
-
-Compares orders across different age groups and genders.
-
-🎯 Project Objective
-
-The main objective of this project is to create an easy-to-understand sales dashboard that helps analyze:
-
-Sales performance
-
-Order trends
-
-Customer demographics
-
-Sales channels
-
-Product categories
-
-State-wise performance
-
-💡 Skills Demonstrated
-
-Excel Data Analysis
-
-Data Cleaning
-
-Pivot Tables
-
-Pivot Charts
-
-Slicers
-
-Dashboard Design
-
-Business Reporting
-
-Data Visualization
-
-Insight Generation
-
-📂 Project Files
-
-Vrinda-Store-Annual-Report-2022/
-│
-├── README.md
-│
-├── Vrinda_Store_Annual_Report_2022.xlsx
-│
-└── Images/
-    └── dashboard.png
-
-🚀 Future Improvements
-
-This project can be further enhanced by:
-
-Adding more KPIs
-
-Creating additional customer analysis
-
-Adding profit and margin analysis
-
-Connecting the dataset with Power BI
-
-Creating an interactive Power BI version
-
-Adding automated data refresh
-
-👨‍💻 Author
-
-Dev Chaturvedi
-
-Aspiring Data Analyst
-
-Skills
-
-Excel
-
-SQL
-
-Power BI
-
-Python
-
-Data Analysis
+Year-End Sales Boost: Run festive discounts/promotions during Q4 (Oct–Dec) to counteract the observed seasonal slump.
